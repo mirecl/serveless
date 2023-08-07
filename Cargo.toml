@@ -2,6 +2,11 @@
 name = "serveless"
 version = "0.0.1"
 edition = "2021"
+keywords = ["lambda"]
+repository = "https://github.com/mirecl/serveless"
+authors = ["Grazhdankov Andrei <grazhdankov@gmail.com>"]
+readme = "README.md"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
