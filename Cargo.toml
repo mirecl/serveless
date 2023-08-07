@@ -2,6 +2,7 @@
 name = "serveless"
 version = "0.0.1"
 edition = "2021"
+description = "Serveless runtime"
 keywords = ["lambda"]
 repository = "https://github.com/mirecl/serveless"
 authors = ["Grazhdankov Andrei <grazhdankov@gmail.com>"]
